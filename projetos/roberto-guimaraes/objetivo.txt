@@ -1,19 +1,5 @@
-                Ideias para o projeto final 
+          Projeto Banco MoneyMaker
 
 
-
-                         Ideia1
-
-Teste de um ecommerce
-
-- Um sistema de ecommerce (Ex: americanas.com), será testado utilizando tecnologias como webdriver por meio de junit. Serão identificadas funcionalidades (passo a passo do usuário) do site que serão gerados os casos de teste.
-
-
-
-                         Ideia2
-
-Teste de um app feito por mim por meio de um curso online
-
-- Serão gerados casos de teste desse app que fiz, o app não é complexo mas funciona, seria utilizado junit e o mockito para testar métodos e saídas.
-
+O projeto foi desenvolvido para área bancária no lado do cliente (ATM), que por sua vez conta com recursos típicos do segmento como: depósitos, saques e extratos. O software foi implementado com a tecnologia JAVA e a persistência no banco de dados em HIBERNATE. A arquitetura utilizada foi a MVC por ter uma maior visibilidade geral do projeto e uma organização mais efetiva. Os testes serão executados nesse ambiente de desenvolvimento que contará com técnicas tradicionais de teste, como caixa preta e caixa branca.
 
