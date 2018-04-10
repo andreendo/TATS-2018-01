@@ -1,5 +1,4 @@
           Projeto Banco MoneyMaker
 
 
-O projeto foi desenvolvido para ·rea banc·ria no lado do cliente (ATM), que por sua vez conta com recursos tÌpicos do segmento como: depÛsitos, saques e extratos. O software foi implementado com a tecnologia JAVA e a persistÍncia no banco de dados em HIBERNATE. A arquitetura utilizada foi a MVC por ter uma maior visibilidade geral do projeto e uma organizaÁ„o mais efetiva. Os testes ser„o executados nesse ambiente de desenvolvimento que contar· com tÈcnicas tradicionais de teste, como caixa preta e caixa branca.
-
+O projeto foi desenvolvido para √°rea banc√°ria no lado do cliente (ATM), que por sua vez conta com recursos t√≠picos do segmento como: dep√≥sitos, saques e extratos. O software foi implementado com a tecnologia JAVA e a persist√™ncia no banco de dados em HIBERNATE. A arquitetura utilizada foi a MVC por ter uma maior visibilidade geral do projeto e uma organiza√ß√£o mais efetiva. Os testes ser√£o executados nesse ambiente de desenvolvimento que contar√° com t√©cnicas tradicionais de teste, como caixa preta e caixa branca.
