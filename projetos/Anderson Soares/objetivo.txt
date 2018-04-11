@@ -1,14 +1,11 @@
 Teste em uma aplicaçao movél
 
+Calendário de aniversários
 
-Gostaria de realizar teste no meu TCC, um aplicativo movél para divulgação e
-e gerenciamento de eventos.
+Coleta informações de calendários de redes sociais e agrupa no Google Agenda.
 
-De acordo com o plano de ensino no mês de abril será apresentado teste em 
-aplicações movéis e ferreentas para o mesmo. Gostaria de aplicar o aprendizado da
-matéria no Trabalho de conclusão de Curso.
+F-Droid: https://f-droid.org/packages/saschpe.contactevents/
 
-Endo: 
-- Qual a tecnologia/linguagem de programação usada?
+Fonte : https://github.com/saschpe/BirthdayCalendar
 
-- Qual o estágio atual do aplicativo? Já está funcionando?
+Google play : https://play.google.com/store/apps/details?id=saschpe.contactevents
