@@ -2,4 +2,7 @@ Teste em uma aplicação web
 
 Testar uma aplicação web desenvolvida em nodejs, usando ferramentas como mocha, travis e sonarcloud.
 
-- A aplicação já está implementada?
+- A aplicação está implementada, gulosoo.com.br
+
+O site éh um sistema de cardápios online, onde as pessoas conseguem encontrar estabelecimentos da própia cidade.
+Teremos testes unitários, testes de interface e testes de integração.
