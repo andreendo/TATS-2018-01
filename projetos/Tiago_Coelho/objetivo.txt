@@ -1,8 +1,15 @@
-
-A minha ideia � fazer alguns casos de teste em um trabalho que eu fiz em TypeScript, ou seja, teste para Web, em alguns formul�rios que eu criei.
+﻿
+A minha ideia eh fazer alguns casos de teste em um trabalho que eu fiz em TypeScript, ou seja, teste para Web, em alguns formularios que eu criei.
 
 Link para o projeto: https://github.com/nefestor/Desafio
 =======
 TO DO
 
 - A aplicação é simples o suficiente? Existe suporte a testes automatizados para o TypeScript?
+
+=======
+
+Sim, o site nada mais é do que um CRUD de projetos e usuários. Como o TypeScript é compilado e transformado em JavaScript puro, acredito que deva haver sim teste automatizado para ele. Mas preciso pesquisa sobre...
+Tenho também um TODO-List, em TypeScript, que também é um CRUD de tarefas, esse é mais simples, não usa API nem nada, salva as infos. no próprio navegador.
+
+Link com imagens do projeto: https://imgur.com/a/4fHz3
